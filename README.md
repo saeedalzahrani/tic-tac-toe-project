@@ -1,9 +1,9 @@
 Hi everyone , I give  you my Tic Tac Toe code  ..
 Used in it:
-- Variables
-- If statement
-- anonymous   function
-finally
+- Variables,
+- If statement,
+- anonymous function,
+ finally
 - Some jquery
 I hope it is simple
  I know that I did not use all of what I studied in the program, but I want to make it easier for everyone، start with me, ending for those who want to use the code.
